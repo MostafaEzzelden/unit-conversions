@@ -1,0 +1,19 @@
+{
+    "name": "mostafaezzelden/unit-conversions",
+    "description": "Preform a unit conversion in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MostafaEzzelden",
+            "email": "bullet.traitor@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Expandcart\\UnitConversions\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
